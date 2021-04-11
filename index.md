@@ -1,6 +1,5 @@
 ## Welcome 
-
-description: I'm a PhD student in CSE Dept. at Indian Institute of Technology, Kanpur. Before this, I completed my MS(R) in Computer Science & Engineering at IIT Kanpur  and B.Tech(H) in Computer Science & Engineering at NIT Jamshedpur. I work in the area of Formal Verification and Controller Synthesis of safety-critical Cyber Physical Systems. My current research is primarily on developing efficient and safe controllers for safety-critical CPSs.  
+I'm a PhD student in CSE Dept. at Indian Institute of Technology, Kanpur. Before this, I completed my MS(R) in Computer Science & Engineering at IIT Kanpur  and B.Tech(H) in Computer Science & Engineering at NIT Jamshedpur. I work in the area of Formal Verification and Controller Synthesis of safety-critical Cyber Physical Systems. My current research is primarily on developing efficient and safe controllers for safety-critical CPSs.  
 
 
 ### Markdown
