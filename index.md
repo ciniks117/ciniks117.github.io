@@ -8,7 +8,7 @@ I'm a PhD student in CSE Dept. at Indian Institute of Technology, Kanpur. Before
 # Publication:
 
 1. Specification Guided Automated Debugging of CPS Models.
-    _Nikhil Kumar Singh_, Indranil Saha. 
+    Nikhil Kumar Singh, Indranil Saha. 
     International Conference on Embedded Software (EMSOFT2020).
     Published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2020).
 
