@@ -1,8 +1,7 @@
 ## Welcome 
 
-You can use the [editor on GitHub](https://github.com/ciniks117/ciniks117.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+description: I'm a PhD student in CSE Dept. at Indian Institute of Technology, Kanpur. Before this, I completed my MS(R) in Computer Science & Engineering at IIT Kanpur  and B.Tech(H) in Computer Science & Engineering at NIT Jamshedpur. I work in the area of Formal Verification and Controller Synthesis of safety-critical Cyber Physical Systems. My current research is primarily on developing efficient and safe controllers for safety-critical CPSs.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
