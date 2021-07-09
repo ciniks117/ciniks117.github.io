@@ -15,7 +15,7 @@ last_updated: # leave blank if you don't want to display last updated
 
 # google-analytics
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
-repo: http://github.com/ciniks117
+repo: http://github.com/ciniks117/ciniks117.github.io
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -86,7 +86,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Varshney
+  last_name: Singh
 
   style: apa
   locale: en
