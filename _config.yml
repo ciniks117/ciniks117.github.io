@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Pratyush
-email: pratyushvarshney91@gmail.com
+name:  nikhil
+email: cniks117@gmail.com
 description: > # this means to ignore newlines until "url:"
   Personal Page.
 footer_text: >
@@ -15,12 +15,12 @@ last_updated: # leave blank if you don't want to display last updated
 
 # google-analytics
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
-repo: http://github.com/pratyusv
+repo: http://github.com/ciniks117
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: pratyusv # put your github username
+github_username: ciniks117 # put your github username
 twitter_username: # put your twitter username
 linkedin_username:  # put your linkedin username
 scholar_authorid:  # put your google scholar author id
@@ -43,7 +43,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: pratyusv# put your disqus shortname
+#disqus_shortname: nikhil# put your disqus shortname
 
 # Optional features
 show_social_icons:  false
