@@ -1,0 +1,16 @@
+---
+layout: post
+title: Gaussian Process
+date: 2020-05-03 15:09:00
+description: Introduction to Gaussian Process
+categories: ['Machine Learning']
+---
+
+The objective of machine learning is to find a function $$f$$ for a data set $$\mathcal{D} = \{(\textbf{x}, \textit{y}) \vert i = 1,...n\}$$ that can correctly predict the unseen data from the dataset.
+
+### Supervised Learning
+There are two basic approaches for supervised learning:
+1. Restrict the class of functions to be considered.
+2. Assign prior probabilities to every possible function, where the higher probabilities are assigned to more likely functions.
+
+One can think of a function as an infinite vector, with each entry specifiying the value of $$f(x)$$ at $$x$$.
