@@ -57,7 +57,8 @@ Currently, I am working on synthesis of safe and robust controllers for safety-c
 
 ### __Projects__
 
-* Implementation of Star-based Abstractions for Outside-the-Box framework. 
+* Implementation of Star-based Abstractions for Outside-the-Box framework.
+
 * Geo-Spatial Analysis of Twitter Data.
 
 
