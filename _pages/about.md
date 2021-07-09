@@ -20,17 +20,17 @@ Currently, I am working on synthesis of safe and robust controllers for safety-c
 
 ### __Publication__
 
+* [Specification-Guided Automated Synthesis of Feedback Controllers]\\
+  Nikhil Kumar Singh, Indranil Saha\\
+  International Conference on Embedded Software (EMSOFT2021), ACM/IEEE, virtual conference, October 08-15, 2021. \\
+  To be Published in ACM Transactions on Embedded Computing Systems(2021). \\
+  Code at (https://github.com/ciniks117/SCoSyn)
+  
 * [Specification-Guided Automated Debugging of CPS Models](https://ieeexplore.ieee.org/document/9211574)\\
   Nikhil Kumar Singh, Indranil Saha\\
   International Conference on Embedded Software (EMSOFT2020), ACM/IEEE, virtual conference, September 20-25, 2020. \\
   Published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(2020). \\
   Code at (https://github.com/ciniks117/BLARS)
-
-* [Specification-Guided Automated Synthesis of Feedback Controller]\\
-  Nikhil Kumar Singh, Indranil Saha\\
-  International Conference on Embedded Software (EMSOFT2021), ACM/IEEE, virtual conference, October 08-15, 2021. \\
-  To be Published in ACM Transactions on Embedded Computing Systems(2021). \\
-  Code at (https://github.com/ciniks117/SCoSyn)
  
 -----------------
 
