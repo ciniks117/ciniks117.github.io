@@ -33,9 +33,9 @@ contact_note: #  You can even add a little note about which of these is the best
 #blog_description: ""
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+#paginate: 4
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/
 
 text:
   pagination:
