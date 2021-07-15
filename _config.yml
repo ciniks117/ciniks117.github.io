@@ -29,8 +29,8 @@ contact_note: #  You can even add a little note about which of these is the best
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: "Resources"
-blog_description: ""
+#blog_name: "Resources"
+#blog_description: ""
 
 # Pagination
 paginate: 4
