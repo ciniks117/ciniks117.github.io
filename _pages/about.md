@@ -44,7 +44,7 @@ Currently, I am working on synthesis of safe and robust controllers for safety-c
 
 ### __Education__
 
-* PhD: Dec'19 - Present \\
+* PhD: Jan'20 - Present \\
   Computer Science and Engineering from IIT Kanpur\\
   Advisor: Dr. Indranil Saha
 
