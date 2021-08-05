@@ -6,7 +6,7 @@ description: PhD @ CSE, IIT Kanpur
 
 profile:
   align: right
-  image: me.jpg
+  image: me.jpeg
   
 news: false
 social: true
@@ -44,16 +44,16 @@ Currently, I am working on synthesis of safe and robust controllers for safety-c
 
 ### __Education__
 
-* PhD: 2019 - Present \\
+* PhD: Dec'19 - Present \\
   Computer Science and Engineering from IIT Kanpur\\
   Advisor: Dr. Indranil Saha
 
-* MS: 2017 - 2019 \\
+* MS: Dec'17 - Dec'19 \\
   Computer Science and Engineering from IIT Kanpur\\
   Master Thesis: <a class="page-link" href="{{ '/assets/pdf/MSThesis.pdf' | prepend: site.baseurl | prepend: site.url }}">Specification Guided Automated Debugging of CPS Models</a>\\
   Advisor: Dr. Indranil Saha
 
-* B.Tech: 2010 - 2014 \\
+* B.Tech: July'10 - May'14 \\
   Computer Science and Engineering from NIT Jamshedpur\\
   Final Project: Intelligent Web Search Engine\\
   Advisor: Dr. Sanjay Kumar
