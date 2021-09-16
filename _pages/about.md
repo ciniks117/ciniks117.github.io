@@ -12,11 +12,9 @@ news: false
 social: true
 ---
 
-<div align="center">
 I am currently a PhD student at [Department of Computer Science and Engineering](https://www.cse.iitk.ac.in/){:target="\_blank"}, [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}, under the supervision of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/){:target="\_blank"}. I have been selected for the [Prime Minister Research Fellowship](https://pmrf.in/){:target="\_blank"} in Dec-2020. Prior to that, I completed my MS (Research) from the [Department of Computer Science and Engineering](https://www.cse.iitk.ac.in/){:target="\_blank"}, at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/){:target="\_blank"}. I have completed my B.Tech(Hons) from [National Institute of Technology Jamshedpur](http://www.nitjsr.ac.in/){:target="\_blank"}, in Computer Science and Engineering. I have worked at OptumSoft, Bangalore for 2 years. My interests lie in the area of Formal Verification, Controller Synthesis, Reinforcement Learning, Cyber-Physical Systems.
 
 Currently, I am working on synthesis of safe and robust controllers for safety-critical CPSs.
-</div>
 
 -----------------
 
