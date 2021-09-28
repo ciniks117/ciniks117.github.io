@@ -20,7 +20,7 @@ Currently, I am working on synthesis of safe and robust controllers for safety-c
 
 ### __Publication__
 
-* [Specification-Guided Automated Synthesis of Feedback Controllers]\\
+* [Specification-Guided Automated Synthesis of Feedback Controllers](https://doi.org/10.1145/3477011)\\
   Nikhil Kumar Singh, Indranil Saha\\
   International Conference on Embedded Software (EMSOFT2021), ACM/IEEE, virtual conference, October 08-15, 2021. \\
   To be Published in ACM Transactions on Embedded Computing Systems(2021). \\
