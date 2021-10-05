@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Nikhil Kumar Singh</strong>
-description: PMRF 
+description: PMRF   
              PhD @ CSE, IIT Kanpur 
 
 profile:
