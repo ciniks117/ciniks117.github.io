@@ -33,3 +33,40 @@ Currently, I am working on synthesis of safe and robust controllers for safety-c
   Published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(2020). \\
   Code at (https://github.com/ciniks117/BLARS)
  
+-----------------
+
+### __Experience__
+
+* OptumSoft \\
+  Designation: Member of Technical Staff\\
+  Duration: Jun'14 - Jun'16
+
+-----------------
+
+### __Education__
+
+* PhD: Jan'20 - Present \\
+  Computer Science and Engineering from IIT Kanpur\\
+  Advisor: Dr. Indranil Saha
+
+* MS: Dec'17 - Dec'19 \\
+  Computer Science and Engineering from IIT Kanpur\\
+  Master Thesis: <a class="page-link" href="{{ '/assets/pdf/MSThesis.pdf' | prepend: site.baseurl | prepend: site.url }}">Specification Guided Automated Debugging of CPS Models</a>\\
+  Advisor: Dr. Indranil Saha
+
+* B.Tech: July'10 - May'14 \\
+  Computer Science and Engineering from NIT Jamshedpur\\
+  Final Project: Intelligent Web Search Engine\\
+  Advisor: Dr. Sanjay Kumar
+
+
+--------------
+
+### __Projects__
+
+* Implementation of Star-based Abstractions for Outside-the-Box framework.
+
+* Geo-Spatial Analysis of Twitter Data.
+
+
+----------------------------------------
