@@ -16,17 +16,17 @@ pagination:
 <div class="post">
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1>Talk1</h1>
+    <h2>Talk2</h2>
   </div>
 
 
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">Talk3</a></h3>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-        <p>{{ post.description }}</p>
+        <p>EMSOFT Talk</p>
       </li>
     {% endfor %}
   </ul>
