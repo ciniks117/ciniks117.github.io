@@ -1,6 +1,16 @@
 ---
-layout: about
+layout: default
 ---
+
+<div class="header-bar">
+  <h1>{{ site.blog_name }}</h1>
+  <h2>{{ site.blog_description }}</h2>
+  <h1> Talk1 </h1>
+  <h2> EMSOFT-2021 Teaser </h2>
+  <h2> EMSOFT-2021 Full Video </h2>
+  <h1>{{ site.blog_name }}</h1>
+  <h2>{{ site.blog_description }}</h2>
+</div>
 
 ### __Talks__
 
