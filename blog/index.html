@@ -1,36 +1,151 @@
----
-layout: default
-title: blog
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 3
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
----
+<section id="projects" class="home-section wg-portfolio   "  >
+    <div class="container">
+      
 
-<div class="post">
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
 
-  <div class="header-bar">
-    <h1>Talk1</h1>
-    <h1>Talk2</h1>
+    <h1>Software</h1>
+
   </div>
+  <div class="col-12 col-lg-8">
 
 
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">Talk3</a></h3>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-        <p>EMSOFT Talk</p>
-      </li>
-    {% endfor %}
-  </ul>
 
-  {% include pagination.html %}
+    
 
+    
+
+    <div class=" row js-layout-row project-showcase mt-5">
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-program-synthesis">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0"><a href="/project/dequs/" >DeQuS</a></h3>
+
+      
+      <div class="article-style">
+        Program Synthesis as Dependency Quantified Formula Modulo Theory
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/meelgroup/dequs" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2105.09221.pdf" target="_blank" rel="noopener">
+    <i class="far fa-file mr-1"></i>
+    IJCAI, 2021
+  </a>
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="/project/dequs/" >
+        <img src="/project/dequs/featured_hu340e7c1a8738eca7caaf21e517832ec2_10409_540x0_resize_lanczos_2.png" alt="">
+      </a>
+      
+    </div>
+  </div>
 </div>
+
+        
+
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-functional-synthesis">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0"><a href="/project/manthan/" >Manthan</a></h3>
+
+      
+      <div class="article-style">
+        Manthan: A Data-Driven Approach for Boolean Function Synthesis
+      </div>
+      
+      <div class="btn-links">
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/meelgroup/manthan" target="_blank" rel="noopener">
+  Code
+</a>
+
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.comp.nus.edu.sg/~meel/Papers/cav20-grm.pdf" target="_blank" rel="noopener">
+    <i class="far fa-file mr-1"></i>
+    CAV 2020
+  </a>
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      <a href="/project/manthan/" >
+        <img src="/project/manthan/featured_hu1dd2895c6ab776fbc7f820861016dc37_111069_540x0_resize_q90_lanczos.jpg" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
