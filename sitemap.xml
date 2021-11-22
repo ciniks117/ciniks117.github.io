@@ -14,23 +14,32 @@
     <loc>/publication/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/emsoft-21/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/emsoft-21/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/aug-dec-2020/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/dm/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/emsoft-20/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/aug-dec-2020/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/dm/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>/talk/emsoft-20/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/pavt/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
@@ -45,8 +54,6 @@
     <loc>/post/</loc>
   </url><url>
     <loc>/publication_types/</loc>
-  </url><url>
-    <loc>/talk/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

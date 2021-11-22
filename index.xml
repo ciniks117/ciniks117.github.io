@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Specification-Guided Automated Synthesis of Feedback Controllers</title>
+      <link>/talk/emsoft-21/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/emsoft-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geo-Spatial Analysis of Twitter Data</title>
+      <link>/project/dm/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Specification-Guided Automated Debugging of CPS Models</title>
       <link>/publication/emsoft-20/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
@@ -29,17 +45,17 @@
     </item>
     
     <item>
-      <title>Star-based Abstraction for Outside-the-Box framework</title>
-      <link>/project/dm/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/project/dm/</guid>
+      <title>Specification-Guided Automated Debugging of CPS Models</title>
+      <link>/talk/emsoft-20/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/emsoft-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Star-based Abstraction for Outside-the-Box framework</title>
       <link>/project/pavt/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/project/pavt/</guid>
       <description></description>
     </item>
