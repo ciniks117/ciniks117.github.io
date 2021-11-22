@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/talk2/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/talk1/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/nikhil-kumar-singh-and-indranil-saha/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/emsoft-21/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/emsoft-21/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/aug-dec-2020/</loc>
@@ -33,9 +36,6 @@
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/emsoft-20/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/emsoft-20/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/pavt/</loc>

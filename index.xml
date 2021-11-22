@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Nikhil Singh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Nikhil Singh</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Specification-Guided Automated Synthesis of Feedback Controllers</title>
-      <link>/publication/emsoft-21/</link>
+      <title>Talk on Controller Synthesis (Part1)</title>
+      <link>/talk/talk2/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMSOFT-2020 Conference Presentation</title>
+      <link>/talk/talk1/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/emsoft-21/</guid>
+      <guid>/talk/talk1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specification-Guided Automated Synthesis of Feedback Controllers</title>
-      <link>/talk/emsoft-21/</link>
+      <link>/publication/emsoft-21/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/talk/emsoft-21/</guid>
+      <guid>/publication/emsoft-21/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>/publication/emsoft-20/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/emsoft-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Specification-Guided Automated Debugging of CPS Models</title>
-      <link>/talk/emsoft-20/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/emsoft-20/</guid>
       <description></description>
     </item>
     
