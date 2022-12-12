@@ -21,15 +21,7 @@
     </item>
     
     <item>
-      <title>Talk on Controller Synthesis (Part1)</title>
-      <link>/talk/talk2/</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/talk/talk2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EMSOFT-2020 Conference Presentation</title>
+      <title>EMSOFT-2021 Conference Presentation</title>
       <link>/talk/talk1/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/talk/talk1/</guid>
@@ -46,6 +38,14 @@
     
     <item>
       <title>Geo-Spatial Analysis of Twitter Data</title>
+      <link>/project/dm/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geo-Spatial Analysis of Twitter Data</title>
       <link>/project_old/dm/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/project_old/dm/</guid>
@@ -57,6 +57,14 @@
       <link>/publication/emsoft-20/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/emsoft-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star-based Abstraction for Outside-the-Box framework</title>
+      <link>/project/pavt/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pavt/</guid>
       <description></description>
     </item>
     
@@ -84,6 +92,22 @@
       <guid>/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Controller Synthesis</title>
+      <link>/talk/pmrf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/pmrf2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Programming</title>
+      <link>/talk/talk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/talk2/</guid>
+      <description></description>
     </item>
     
   </channel>
