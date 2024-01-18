@@ -20,10 +20,10 @@ organizations:
 bio: 
 
 interests:
-- Formal Verification
-- Controller Synthesis
-- Reinforcement Learning
-- Cyber Physical Systems
+- Reinforcement Learning  
+- Formal Methods  
+- Controller Synthesis  
+- Cyber Physical Systems  
 
 education:
   courses:
