@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nikhil Kumar Singh | </title>
-    <link>//localhost:1313/author/nikhil-kumar-singh/</link>
-      <atom:link href="//localhost:1313/author/nikhil-kumar-singh/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nikhil Kumar Singh</description>
+    <title>Admin | </title>
+    <link>//localhost:1313/author/admin/</link>
+      <atom:link href="//localhost:1313/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Admin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>//localhost:1313/images/icon_hu_c9b7ae332ea53df6.png</url>
-      <title>Nikhil Kumar Singh</title>
-      <link>//localhost:1313/author/nikhil-kumar-singh/</link>
+      <title>Admin</title>
+      <link>//localhost:1313/author/admin/</link>
     </image>
-    
-    <item>
-      <title>Nikhil Kumar Singh</title>
-      <link>//localhost:1313/author/nikhil-kumar-singh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/author/nikhil-kumar-singh/</guid>
-      <description>&lt;p&gt;I am a PhD student at the 
-&lt;a href=&#34;https://cse.iitk.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Computer Science and Engineering&lt;/a&gt; at the  
-&lt;a href=&#34;https://iitk.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indian Institute of Technology Kanpur&lt;/a&gt; under 
-&lt;a href=&#34;https://cse.iitk.ac.in/users/isaha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Indranil Saha&lt;/a&gt;. I am a recipient of the 
-&lt;a href=&#34;https://pmrf.in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prime Minister Research Fellowship&lt;/a&gt; since December-2020.
-I am working on synthesis of safe and robust controllers for safety-critical Cyber Physical Systems (CPSs).
-During MS, I worked on development of an automated debugging tool for CPS models. I have worked at OptumSoft, Bangalore for 2 years, where I developed application software for distributed systems.&lt;/p&gt;
-&lt;!-- I love working on robotics systems (mainly Aerial Robots), RC flying of fixed-wings, freestyle FPV flying of multi-rotors, playing video games, watching movies, listening music, and want my GoGoGo...Tron.    --&gt;
-&lt;!-- He mentored team [Aerial Robotics IITK](https://aerialrobotics-iitk.github.io) for [IARC 2021 Simulation Challenge](http://www.aerialroboticscompetition.org/simulation_challenge.php). --&gt;
-</description>
-    </item>
     
     <item>
       <title>Nikhil Singh</title>

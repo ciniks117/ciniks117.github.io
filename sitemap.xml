@@ -2,58 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/talk/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/aamas24/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/talk/talk2/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/nikhil-kumar-singh-and-indranil-saha/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/aaai23/</loc>
-    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/emsoft-21/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/aug-dec-2020/</loc>
+    <loc>//localhost:1313/talk/talk1/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/nikhil-kumar-singh-and-indranil-saha/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication/emsoft-21/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/aug-dec-2020/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project_old/dm/</loc>
+    <loc>//localhost:1313/project/dm/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project_old/</loc>
+    <loc>//localhost:1313/project/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/emsoft-20/</loc>
+    <loc>//localhost:1313/publication/emsoft-20/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project_old/pavt/</loc>
+    <loc>//localhost:1313/project/pavt/</loc>
     <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>//localhost:1313/author/nikhil-kumar-singh/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/author/nikhil-singh/</loc>
   </url><url>
-    <loc>/author/nikhil-singh/</loc>
+    <loc>//localhost:1313/post/</loc>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/publication_types/</loc>
   </url><url>
-    <loc>/publication_types/</loc>
-  </url><url>
-    <loc>/talk/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
