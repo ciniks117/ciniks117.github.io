@@ -2,62 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
-      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_c9b7ae332ea53df6.png</url>
+      <url>/media/logo_full</url>
       <title></title>
-      <link>//localhost:1313/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Talk on Controller Synthesis (Part1)</title>
-      <link>//localhost:1313/talk/talk2/</link>
+      <link>/talk_old/talk2/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/talk2/</guid>
+      <guid>/talk_old/talk2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EMSOFT-2020 Conference Presentation</title>
-      <link>//localhost:1313/talk/talk1/</link>
+      <link>/talk_old/talk1/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/talk1/</guid>
+      <guid>/talk_old/talk1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specification-Guided Automated Synthesis of Feedback Controllers</title>
-      <link>//localhost:1313/publication/emsoft-21/</link>
+      <link>/publication/emsoft-21/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/emsoft-21/</guid>
+      <guid>/publication/emsoft-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geo-Spatial Analysis of Twitter Data</title>
-      <link>//localhost:1313/project/dm/</link>
+      <link>/project/dm/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/dm/</guid>
+      <guid>/project/dm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specification-Guided Automated Debugging of CPS Models</title>
-      <link>//localhost:1313/publication/emsoft-20/</link>
+      <link>/publication/emsoft-20/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/emsoft-20/</guid>
+      <guid>/publication/emsoft-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Star-based Abstraction for Outside-the-Box framework</title>
-      <link>//localhost:1313/project/pavt/</link>
+      <link>/project/pavt/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pavt/</guid>
+      <guid>/project/pavt/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

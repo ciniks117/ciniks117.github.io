@@ -2,55 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/</loc>
+    <loc>/talk_old/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/talk2/</loc>
+    <loc>/talk_old/talk2/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/talk1/</loc>
+    <loc>/talk_old/talk1/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/nikhil-kumar-singh-and-indranil-saha/</loc>
+    <loc>/author/nikhil-kumar-singh-and-indranil-saha/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/emsoft-21/</loc>
+    <loc>/publication/emsoft-21/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/aug-dec-2020/</loc>
+    <loc>/author/aug-dec-2020/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/dm/</loc>
+    <loc>/project/dm/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/emsoft-20/</loc>
+    <loc>/publication/emsoft-20/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/pavt/</loc>
+    <loc>/project/pavt/</loc>
     <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/nikhil-kumar-singh/</loc>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/nikhil-singh/</loc>
+    <loc>/author/</loc>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/publication_types/</loc>
+    <loc>/author/nikhil-singh/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/post/</loc>
+  </url><url>
+    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
