@@ -5,12 +5,36 @@
     <link>//localhost:1313/</link>
       <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/logo_full</url>
       <title></title>
       <link>//localhost:1313/</link>
     </image>
+    
+    <item>
+      <title>Kernel-Based Safe Exploration in Deep Reinforcement Learning.</title>
+      <link>//localhost:1313/publication/l4dc26/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/l4dc26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Metastable Dynamics.</title>
+      <link>//localhost:1313/publication/hscc26/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/hscc26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward Generation for Model-Free Reinforcement Learning from Formal Specifications.</title>
+      <link>//localhost:1313/publication/jair26/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jair26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Frugal Actor-Critic: Sample Efficient Off-Policy Deep Reinforcement Learning Using Unique Experiences</title>
