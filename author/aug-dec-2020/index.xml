@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aug-Dec 2020 | </title>
-    <link>//localhost:1313/author/aug-dec-2020/</link>
-      <atom:link href="//localhost:1313/author/aug-dec-2020/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/aug-dec-2020/</link>
+      <atom:link href="/author/aug-dec-2020/index.xml" rel="self" type="application/rss+xml" />
     <description>Aug-Dec 2020</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/logo_full</url>
+      <url>/media/logo_full</url>
       <title>Aug-Dec 2020</title>
-      <link>//localhost:1313/author/aug-dec-2020/</link>
+      <link>/author/aug-dec-2020/</link>
     </image>
     
     <item>
       <title>Geo-Spatial Analysis of Twitter Data</title>
-      <link>//localhost:1313/project/dm/</link>
+      <link>/project/dm/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/dm/</guid>
+      <guid>/project/dm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Star-based Abstraction for Outside-the-Box framework</title>
-      <link>//localhost:1313/project/pavt/</link>
+      <link>/project/pavt/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/pavt/</guid>
+      <guid>/project/pavt/</guid>
       <description></description>
     </item>
     

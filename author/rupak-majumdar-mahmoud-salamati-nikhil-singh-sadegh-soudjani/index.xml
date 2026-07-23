@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rupak Majumdar, Mahmoud Salamati, Nikhil Singh, Sadegh Soudjani | </title>
-    <link>//localhost:1313/author/rupak-majumdar-mahmoud-salamati-nikhil-singh-sadegh-soudjani/</link>
-      <atom:link href="//localhost:1313/author/rupak-majumdar-mahmoud-salamati-nikhil-singh-sadegh-soudjani/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/rupak-majumdar-mahmoud-salamati-nikhil-singh-sadegh-soudjani/</link>
+      <atom:link href="/author/rupak-majumdar-mahmoud-salamati-nikhil-singh-sadegh-soudjani/index.xml" rel="self" type="application/rss+xml" />
     <description>Rupak Majumdar, Mahmoud Salamati, Nikhil Singh, Sadegh Soudjani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/logo_full</url>
+      <url>/media/logo_full</url>
       <title>Rupak Majumdar, Mahmoud Salamati, Nikhil Singh, Sadegh Soudjani</title>
-      <link>//localhost:1313/author/rupak-majumdar-mahmoud-salamati-nikhil-singh-sadegh-soudjani/</link>
+      <link>/author/rupak-majumdar-mahmoud-salamati-nikhil-singh-sadegh-soudjani/</link>
     </image>
     
     <item>
       <title>Learning Metastable Dynamics.</title>
-      <link>//localhost:1313/publication/hscc26/</link>
+      <link>/publication/hscc26/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/hscc26/</guid>
+      <guid>/publication/hscc26/</guid>
       <description></description>
     </item>
     

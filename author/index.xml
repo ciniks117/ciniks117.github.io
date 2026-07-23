@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/author/</link>
-      <atom:link href="//localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/</link>
+      <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>//localhost:1313/media/logo_full</url>
+      <url>/media/logo_full</url>
       <title></title>
-      <link>//localhost:1313/author/</link>
+      <link>/author/</link>
     </image>
     
   </channel>
